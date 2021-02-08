@@ -1,0 +1,20 @@
+# Setup
+title:               "t-sp.in"
+tagline:             ""
+description:         "A site to host a bunch of documents easily."
+url:                 https://t-sp.in
+baseurl:             ''
+permalink:           pretty
+include:             [".well-known", ".nojekyll"]
+
+# About/contact
+author:
+  name:              sinefuse
+  url:               https://sinefuse.moe
+
+# Gems
+#plugins:
+#  - jekyll-paginate
+
+# Custom vars
+version:             3.0.0
