@@ -19,7 +19,7 @@ As you might have guessed, Cambridge is the next open-source falling-block game 
 
 [32-Bit Download](https://github.com/SashLilac/cambridge/releases/latest/download/cambridge-win32.zip)
 
-Unzip the contents into a folder and run `cambridge.exe`.
+Extract the contents of the .zip file into a folder and run `cambridge.exe`.
 
 ### Bleeding Edge / Unstable
 
@@ -52,7 +52,7 @@ Put `cambridge.love` anywhere you'd like, open the Terminal in the folder with t
 You have two options:
 
 * Clone the repository using `git clone https://github.com/SashLilac/cambridge` in your Terminal
-* Download the .zip archive of the repository at [https://github.com/SashLilac/cambridge/releases](https://github.com/SashLilac/cambridge/releases)
+* Download the .zip archive of the repository at [https://github.com/SashLilac/cambridge/releases](https://github.com/SashLilac/cambridge/releases) and extract it
 
 From there, head into the repository folder (either `cambridge` or `cambridge-master` depending on which route you took) and execute `love .` - that's all there is to it.
 
