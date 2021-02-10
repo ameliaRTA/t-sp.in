@@ -37,7 +37,7 @@ For 32-Bit Windows installations, you'll have to run this instead:
 
 ## macOS and Linux
 
-If you haven't already, install `love` with your favourite package manager (Homebrew on macOS, your system's default on Linux). **Make sure you're using LÖVE 11, because it won't work with earlier versions!** You will need it for both Stable and Bleeding edge releases.
+If you haven't already, install `love` with your favourite package manager (Homebrew on macOS, your system's default on Linux). **Make sure you're using LÖVE 11, because it won't work with earlier versions!** You will need it for both Stable and Bleeding Edge / Unstable releases.
 
 ### Stable
 
