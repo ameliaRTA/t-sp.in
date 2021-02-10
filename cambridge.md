@@ -2,7 +2,7 @@
 layout: post
 title: "Cambridge: The Open-Source Arcade Stacker"
 ---
-![Cambridge logo](public/img/cambridge.png)
+![Cambridge logo](/public/img/cambridge.png)
 
 # Welcome to Cambridge!
 

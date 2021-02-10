@@ -23,7 +23,7 @@ html {
 	--sub-bg-color: #e2e2e2;
 	--main-text-color: #111;
 	--sub-text-color: #222;
-	--theme-bg-color: #582012; 
+	--theme-bg-color: #582012;
 	--theme-text-color: #e71f1f;
 }
 
@@ -33,7 +33,7 @@ html {
 	--sub-bg-color: #222;
 	--main-text-color: #eee;
 	--sub-text-color: #ddd;
-	--theme-bg-color: #113341; 
+	--theme-bg-color: #113341;
 	--theme-text-color: #00b0c0;
 	}
 }
@@ -44,7 +44,7 @@ html {
 	--sub-bg-color: #e2e2e2;
 	--main-text-color: #111;
 	--sub-text-color: #222;
-	--theme-bg-color: #582012; 
+	--theme-bg-color: #582012;
 	--theme-text-color: #e71f1f;
 	}
 }
@@ -75,11 +75,11 @@ h1, h2, h3, h4, h5, h6 {
  * to make sure they adapt to the dark mode properly.
  * Is it a clean patch? No. Does it work? Yes. I'll take it.
  */
- 
+
 strong {
   color: var(--main-text-color);
 }
- 
+
 .hometext {
 	color: var(--main-text-color);
 	padding-bottom: 8em;
@@ -131,7 +131,7 @@ pre {
 }
 @media (min-width: 56em) {
   .container {
-    max-width: 38rem;
+    max-width: 46rem;
   }
 }
 
@@ -144,13 +144,14 @@ pre {
 .masthead {
   padding-top:    1rem;
   padding-bottom: 1rem;
-  margin-bottom: 3rem;
+  margin-bottom: 2rem;
   border-bottom: 1px solid #ccc;
 }
 .masthead-title {
   margin-top: 0;
   margin-bottom: 0;
-  color: var(--theme-text-color);
+  color: var(--main-text-color);
+	text-align: center;
 }
 .masthead-title a {
   color: var(--theme-text-color);
@@ -158,19 +159,20 @@ pre {
 .masthead-title small {
   font-size: 75%;
   font-weight: 400;
-  color: var(--theme-text-color);
+  color: var(--main-text-color);
   letter-spacing: 0;
+  font-family: "PT Sans", Helvetica, Arial, sans-serif;
 }
-
+/*
 @media (max-width: 48em) {
   .masthead-title {
     text-align: center;
   }
   .masthead-title small {
-    display: none;
+    text-align: center;
   }
 }
-
+*/
 /*
  * Posts and pages
  *
