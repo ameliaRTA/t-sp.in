@@ -14,9 +14,20 @@ Join our Discord server for help and a welcoming community! https://discord.gg/m
 
 ## Windows
 
-Stable releases for the general public are available at [https://github.com/SashLilac/cambridge/releases](https://github.com/SashLilac/cambridge/releases). If you're unsure about which version you need, just grab `cambridge-windows.zip`, extract it anywhere and you're good to go! Just run the .exe file and you can start playing.
+### Stable
+[64-Bit Download (pick this if you're not sure)](https://github.com/SashLilac/cambridge/releases/latest/download/cambridge-windows.zip)
 
-However, If you'd like to try out the newest stuff or contribute to the project, you'll want to grab the bleeding edge version. **Keep in mind that this is an unstable version and there is a chance that the game might crash.** If you'd like to proceed, you'll need to have LÖVE installed. If you don't have it, go to [https://love2d.org/](https://love2d.org/) to download it, and then download the source code for Cambridge over at [https://github.com/SashLilac/cambridge/archive/master.zip](https://github.com/SashLilac/cambridge/archive/master.zip). Extract the .zip file, open a command prompt inside the cambridge-master folder and then then run this command to launch Cambridge:
+[32-Bit Download](https://github.com/SashLilac/cambridge/releases/latest/download/cambridge-win32.zip)
+
+Unzip the contents into a folder and run `cambridge.exe`.
+
+### Bleeding Edge / Unstable
+
+**Keep in mind that this is an unstable version and there is a chance that the game might crash.**
+
+Make sure that you have LÖVE installed: [https://love2d.org/](https://love2d.org/)
+
+Then download the source code for Cambridge over at [https://github.com/SashLilac/cambridge/archive/master.zip](https://github.com/SashLilac/cambridge/archive/master.zip). Extract the .zip file, open a command prompt inside the cambridge-master folder and then then run this command to launch Cambridge:
 
 `dist\windows\love.exe .`
 
@@ -28,9 +39,22 @@ For 32-Bit Windows installations, you'll have to run this instead:
 
 If you haven't already, install `love` with your favourite package manager (Homebrew on macOS, your system's default on Linux). **Make sure you're using LÖVE 11, because it won't work with earlier versions!** You will need it for both Stable and Bleeding edge releases.
 
-For the Stable release, you can grab the `cambridge.love` file from the releases over at [https://github.com/SashLilac/cambridge/releases](https://github.com/SashLilac/cambridge/releases). Put it anywhere you'd like, open the Terminal in the folder with the file and then execute `love cambridge.love` inside the Terminal.
+### Stable
 
-For the unstable bleeding edge version you can either clone the repository using `git clone https://github.com/SashLilac/cambridge` in your Terminal or download the archive of the repoistory at [https://github.com/SashLilac/cambridge/releases](https://github.com/SashLilac/cambridge/releases). From there, head into the repository folder (either `cambridge` or `cambridge-master` depending on which route you took) and execute `love .` - and now the game should run.
+[Download (cambridge.love, an universal file that works on any OS that can run .love files using `love`)](https://github.com/SashLilac/cambridge/releases/latest/download/cambridge.love)
+
+Put `cambridge.love` anywhere you'd like, open the Terminal in the folder with the file and then run `love cambridge.love`.
+
+### Bleeding Edge / Unstable
+
+**Keep in mind that this is an unstable version and there is a chance that the game might crash.**
+
+You have two options:
+
+* Clone the repository using `git clone https://github.com/SashLilac/cambridge` in your Terminal
+* Download the .zip archive of the repository at [https://github.com/SashLilac/cambridge/releases](https://github.com/SashLilac/cambridge/releases)
+
+From there, head into the repository folder (either `cambridge` or `cambridge-master` depending on which route you took) and execute `love .` - that's all there is to it.
 
 # Installing modpacks
 
