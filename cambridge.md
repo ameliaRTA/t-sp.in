@@ -8,7 +8,7 @@ title: "Cambridge: The Open-Source Arcade Stacker"
 
 As you might have guessed, Cambridge is the next open-source falling-block game engine - written and maintained exclusively by [SashLilac](https://github.com/SashLilac), [joezeng](https://github.com/joezeng) and [Oshisaure](https://github.com/oshisaure).
 
-[Join our Discord server for help and a welcoming community!](https://discord.gg/mteMJw4)
+The Cambridge Discord Server has been temporarily decommissioned. Please contact Milla#7746 on Discord for help.
 
 # Downloads + How to run Cambridge
 
