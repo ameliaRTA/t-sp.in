@@ -1,6 +1,6 @@
 ---
 layout: post
-title: An Explanation of HMS
+title: An Explanation of HMS123311
 ---
 
 ## What is this HMS stuff?
@@ -36,6 +36,16 @@ As you can see, this is incredibly broken and well abused throughout the entire 
 ## The incredibly random noises you hear
 
 As mentioned at the beginning, HMS is a joke character. There are two variants of the character - one normal version which is just the character, and then another version with the voicepack, which strived to be as annoying, obnoxious and pretentious as possible (Again, keep in mind that HMS is a joke character which is basically just an overpowered Sonic recolor). The voicepack is the super weird noises you hear sometimes if I do a HMS run. Here's the kicker: Using the voicepack version is slightly faster, because Eggman's death animation ends faster and thus spawns the capsule faster, resulting in a bunch of seconds saved across the entire run, which as you can imagine, adds up.
+
+## So there's FHMS and HMS. Are there differences? Why not play as FHMS?
+
+There are actual differences between the two, believe it or not.
+
+For starters, FHMS' Lua files are rewritten, so you can't really be certain that they behave 100% the same, but then there is the biggest problem: **FHMS' Chaos Control Thok travels 40 more Fracunits per in-game tick than the Original HMS' Chaos Control Thok.** This allows FHMS to clip through thicker walls than regular HMS could. Just because of this one difference, HMS and FHMS should be considered different enough from one another to have HMS runs specifically classified as HMS, and FHMS runs be speficially classified as FHMS (read: **not HMS**).
+
+Though, there are other differences as well, such as FHMS not having an Object-Killing script. What I mean by that is that the original HMS can just run into certain objects and they just disappear instantly, essentially killing them. FHMS doesn't have this power.
+
+I do have to say FHMS looks pretty nice though. If I ever do runs as FHMS, I will classify them as FHMS, not just HMS.
 
 ## Where's the super music?
 
