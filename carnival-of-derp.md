@@ -2,7 +2,7 @@
 layout: post
 title: "Carnival of Derp"
 ---
-
+<span style=font-family: "Comic Sans MS", "Comic Sans", cursive;>
 Because people forgot that Tetrisconcept exists and no one made a thread there.
 
 "HURR DERP I AM HTE STACKIGN FASTS" - some uninspired fuckhead aka me aka who is writing this????????? mmmmmmmmm burgor
@@ -19,6 +19,7 @@ you can submit multiple scores for multiple rotation systems, so a 400 in SRS an
 submit new scores on [the cambridge discord](https://discord.gg/AADZUmgsph) in #carnival-of-derp-scores
 
 HERP TOLL:
+
 DERP TOLL:
 
 TOP HERP:
@@ -32,3 +33,5 @@ TOP DERP:
 |Place|Player|Level|Rotation System|Engine|
 |-----|:----|--------------:|:-----|
 |1|test|000|monomino|ur brain|
+
+<span/>
