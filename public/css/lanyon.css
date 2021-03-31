@@ -76,6 +76,10 @@ h1, h2, h3, h4, h5, h6 {
  * Is it a clean patch? No. Does it work? Yes. I'll take it.
  */
 
+ td {
+   background-color: var(--sub-bg-color);
+ }
+
 strong {
   color: var(--main-text-color);
 }
