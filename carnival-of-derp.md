@@ -23,12 +23,12 @@ DERP TOLL:
 
 TOP HERP:
 
-|Player|Level|Rotation System|Engine|
-|-----:|:----|--------------:|:-----|
-|test|000|monomino|ur brain|
+|Place|Player|Level|Rotation System|Engine|
+|-----|:----|--------------:|:-----|
+|1|test|000|monomino|ur brain|
 
 TOP DERP:
 
-|Player|Level|Rotation System|Engine|
-|-----:|:----|--------------:|:-----|
-|test|000|monomino|ur brain|
+|Place|Player|Level|Rotation System|Engine|
+|-----|:----|--------------:|:-----|
+|1|test|000|monomino|ur brain|
