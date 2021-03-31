@@ -1,8 +1,7 @@
 ---
-layout: post
+layout: postderp
 title: "Carnival of Derp"
 ---
-<span style=font-family: "Comic Sans MS", "Comic Sans", cursive;>
 
 Because people forgot that Tetrisconcept exists and no one made a thread there.
 
@@ -34,5 +33,3 @@ TOP DERP:
 |Place|Player|Level|Rotation System|Engine|
 |-----|-----:|:----|--------------:|:-----|
 |1|test|000|monomino|ur brain|
-
-<span/>

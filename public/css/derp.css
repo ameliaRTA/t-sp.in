@@ -1,0 +1,191 @@
+html {
+	--main-bg-color: #f2f2f2;
+	--sub-bg-color: #e2e2e2;
+	--main-text-color: #111;
+	--sub-text-color: #222;
+	--theme-bg-color: #582012;
+	--theme-text-color: #e71f1f;
+}
+
+@media (prefers-color-scheme: dark) {
+html {
+	--main-bg-color: #111;
+	--sub-bg-color: #222;
+	--main-text-color: #eee;
+	--sub-text-color: #ddd;
+	--theme-bg-color: #113341;
+	--theme-text-color: #00b0c0;
+	}
+}
+
+@media (prefers-color-scheme: light) {
+	html {
+	--main-bg-color: #f2f2f2;
+	--sub-bg-color: #e2e2e2;
+	--main-text-color: #111;
+	--sub-text-color: #222;
+	--theme-bg-color: #582012;
+	--theme-text-color: #e71f1f;
+	}
+}
+
+/* Prevent scroll on narrow devices */
+html,
+body {
+  overflow-x: hidden;
+  background-color: var(--main-bg-color);
+}
+
+html {
+  font-family: "Comic Sans MS", "Comic Sans", cursive;
+}
+
+h1, h2, h3, h4, h5, h6 {
+  font-family: "PT Sans", Helvetica, Arial, sans-serif;
+  font-weight: 400;
+  color: var(--theme-text-color);
+  letter-spacing: -.025rem;
+}
+
+/*
+ * Extra things
+ *
+ * Since lanyon.css overrides poole.css,
+ * I'm taking liberty here to change a few things,
+ * to make sure they adapt to the dark mode properly.
+ * Is it a clean patch? No. Does it work? Yes. I'll take it.
+ */
+
+td {
+   background-color: var(--main-bg-color) !important;
+}
+
+strong {
+  color: var(--main-text-color);
+}
+
+.hometext {
+	color: var(--main-text-color);
+	padding-bottom: 8em;
+}
+
+.message {
+  margin-bottom: 1rem;
+  padding: 1rem;
+  color: var(--sub-text-color);
+  background-color: var(--sub-bg-color);
+}
+
+/* Code */
+code {
+  color: var(--theme-text-color);
+  background-color: var(--sub-bg-color);
+}
+pre {
+  color: var(--theme-text-color);
+  background-color: var(--sub-bg-color);
+}
+
+/*
+ * Wrapper
+ *
+ * The wrapper is used to position site content when the sidebar is toggled. We
+ * use an outter wrap to position the sidebar without interferring with the
+ * regular page content.
+ */
+
+.wrap {
+  position: relative;
+  width: 100%;
+}
+
+/*
+ * Container
+ *
+ * Center the page content.
+ */
+
+.container {
+  max-width: 28rem;
+}
+@media (min-width: 38em) {
+  .container {
+    max-width: 32rem;
+  }
+}
+@media (min-width: 56em) {
+  .container {
+    max-width: 46rem;
+  }
+}
+
+/*
+ * Masthead
+ *
+ * Super small header above the content for site name and short description.
+ */
+
+.masthead {
+  padding-top:    1rem;
+  padding-bottom: 1rem;
+  margin-bottom: 2rem;
+  border-bottom: 1px solid #ccc;
+}
+.masthead-title {
+  margin-top: 0;
+  margin-bottom: 0;
+  color: var(--main-text-color);
+	text-align: center;
+}
+.masthead-title a {
+  color: var(--theme-text-color);
+}
+.masthead-title small {
+  font-size: 75%;
+  font-weight: 400;
+  color: var(--main-text-color);
+  letter-spacing: 0;
+  font-family: "PT Sans", Helvetica, Arial, sans-serif;
+}
+/*
+@media (max-width: 48em) {
+  .masthead-title {
+    text-align: center;
+  }
+  .masthead-title small {
+    text-align: center;
+  }
+}
+*/
+/*
+ * Posts and pages
+ *
+ * Each post is wrapped in `.post` and is used on default and post layouts. Each
+ * page is wrapped in `.page` and is only used on the page layout.
+ */
+
+.page,
+.post {
+  margin-bottom: 4em;
+  background-color: var(--main-bg-color); /*dark theme thing*/
+  color: var(--main-text-color);
+}
+
+/* Blog post or page title */
+.page-title,
+.post-title,
+.post-title a {
+  color: var(--main-text-color);
+}
+.page-title,
+.post-title {
+  margin-top: 0;
+}
+
+/* Meta data line below post title */
+.post-date {
+  display: block;
+  margin-top: -.5rem;
+  margin-bottom: 1rem;
+  color: var(--main-text-color);
+}
