@@ -41,7 +41,7 @@ html {
 }
 
 h1, h2, h3, h4, h5, h6 {
-  font-family: "PT Sans", Helvetica, Arial, sans-serif;
+  font-family: "Comic Sans MS", "Comic Sans", cursive;
   font-weight: 400;
   color: var(--theme-text-color);
   letter-spacing: -.025rem;
@@ -145,24 +145,8 @@ pre {
   font-weight: 400;
   color: var(--main-text-color);
   letter-spacing: 0;
-  font-family: "PT Sans", Helvetica, Arial, sans-serif;
+  font-family: "Comic Sans MS", "Comic Sans", cursive;
 }
-/*
-@media (max-width: 48em) {
-  .masthead-title {
-    text-align: center;
-  }
-  .masthead-title small {
-    text-align: center;
-  }
-}
-*/
-/*
- * Posts and pages
- *
- * Each post is wrapped in `.post` and is used on default and post layouts. Each
- * page is wrapped in `.page` and is only used on the page layout.
- */
 
 .page,
 .post {
