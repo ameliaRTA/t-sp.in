@@ -62,24 +62,13 @@ Yes indeed, Cambridge supports modpacks! However, it should be noted that since 
 
 # Credits
 
-- [SashLilac](https://github.com/SashLilac) for writing these credits originally
+- [SashLilac](https://github.com/SashLilac) for writing these credits originally and developing the game!
 - [Lilla Oshisaure](https://www.youtube.com/user/LeSpyroshisaure) for being my co-dev!
 - [joezeng](https://github.com/joezeng) for the original project, and for offering to help with the expansion!
 - [The Tetra Legends Discord](http://discord.com/invite/7hMx5r2) for supporting me and playtesting!
 - [The Absolute Plus](https://discord.gg/6Gf2awJ) for being another source of motivation!
 - [sinefuse](https://sinefuse.moe) for hosting this document on t-sp.in and help with other small bits and bobs!
 
-The following people in no particular order also helped with the project:
-- [Hailey](https://github.com/haileylgbt)
-- CylinderKnot
-- MarkGamed7794
-- [Mizu](https://github.com/rexxt)
-- MattMayuga
-- Kitaru
-- switchpalacecorner
-- [2Tie](https://github.com/2Tie)
-- [nightmareci](https://github.com/nightmareci)
-- [MyPasswordIsWeak](https://github.com/MyPasswordIsWeak)
-- [Dr Ocelot](https://github.com/Dr-Ocelot)
+More special thanks can be found in-game, under the "Credits" menu.
 
 ![Cambridge Logo](https://cdn.discordapp.com/attachments/625496179433668635/763363717730664458/Icon_2.png)
