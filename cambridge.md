@@ -6,7 +6,7 @@ title: "Cambridge: The Open-Source Arcade Stacker"
 
 # Welcome to Cambridge!
 
-As you might have guessed, Cambridge is the next open-source falling-block game engine - written and maintained exclusively by [SashLilac](https://github.com/SashLilac), [joezeng](https://github.com/joezeng) and [Oshisaure](https://github.com/oshisaure).
+As you might have guessed, Cambridge is the next open-source falling-block game engine - written and maintained exclusively by [Milla](https://github.com/MillaBasset), [joezeng](https://github.com/joezeng) and [Oshisaure](https://github.com/oshisaure).
 
 The [Discord server](https://discord.gg/AADZUmgsph) has been reopened!
 
@@ -15,9 +15,9 @@ The [Discord server](https://discord.gg/AADZUmgsph) has been reopened!
 ## Windows
 
 ### Stable
-[64-Bit Download (pick this if you're not sure)](https://github.com/SashLilac/cambridge/releases/latest/download/cambridge-windows.zip)
+[64-Bit Download (pick this if you're not sure)](https://github.com/MillaBasset/cambridge/releases/latest/download/cambridge-windows.zip)
 
-[32-Bit Download](https://github.com/SashLilac/cambridge/releases/latest/download/cambridge-win32.zip)
+[32-Bit Download](https://github.com/MillaBasset/cambridge/releases/latest/download/cambridge-win32.zip)
 
 Extract the contents of the .zip file into a folder and run `cambridge.exe`.
 
@@ -27,7 +27,7 @@ Extract the contents of the .zip file into a folder and run `cambridge.exe`.
 
 Make sure that you have LÖVE installed: [https://love2d.org/](https://love2d.org/)
 
-Then download the source code for Cambridge over at [https://github.com/SashLilac/cambridge/archive/master.zip](https://github.com/SashLilac/cambridge/archive/master.zip). Extract the .zip file, open a command prompt inside the cambridge-master folder and then then run this command to launch Cambridge:
+Then download the source code for Cambridge over at [https://github.com/MillaBasset/cambridge/archive/master.zip](https://github.com/MillaBasset/cambridge/archive/master.zip). Extract the .zip file, open a command prompt inside the cambridge-master folder and then then run this command to launch Cambridge:
 
 `dist\windows\love.exe .`
 
@@ -41,7 +41,7 @@ If you haven't already, install `love` with your favourite package manager (Home
 
 ### Stable
 
-[Download (cambridge.love, an universal file that works on any OS that can run .love files using `love`)](https://github.com/SashLilac/cambridge/releases/latest/download/cambridge.love)
+[Download (cambridge.love, an universal file that works on any OS that can run .love files using `love`)](https://github.com/MillaBasset/cambridge/releases/latest/download/cambridge.love)
 
 Put `cambridge.love` anywhere you'd like, open the Terminal in the folder with the file and then run `love cambridge.love`.
 
@@ -51,18 +51,18 @@ Put `cambridge.love` anywhere you'd like, open the Terminal in the folder with t
 
 You have two options:
 
-* Clone the repository using `git clone https://github.com/SashLilac/cambridge` in your Terminal
-* Download the .zip archive of the repository at [https://github.com/SashLilac/cambridge/releases](https://github.com/SashLilac/cambridge/releases) and extract it
+* Clone the repository using `git clone https://github.com/MillaBasset/cambridge` in your Terminal
+* Download the .zip archive of the repository at [https://github.com/MillaBasset/cambridge/releases](https://github.com/MillaBasset/cambridge/releases) and extract it
 
 From there, head into the repository folder (either `cambridge` or `cambridge-master` depending on which route you took) and execute `love .` - that's all there is to it.
 
 # Installing modpacks
 
-Yes indeed, Cambridge supports modpacks! However, it should be noted that since these are not part of the main Cambridge experience, your mileage in terms of how well they work may vary. If this doesn't deter you, go to [the Cambridge Modpack repository over at GitHub](https://github.com/SashLilac/cambridge-modpack) to get a taste of the mod potential.
+Yes indeed, Cambridge supports modpacks! However, it should be noted that since these are not part of the main Cambridge experience, your mileage in terms of how well they work may vary. If this doesn't deter you, go to [the Cambridge Modpack repository over at GitHub](https://github.com/MillaBasset/cambridge-modpack) to get a taste of the mod potential.
 
 # Credits
 
-- [SashLilac](https://github.com/SashLilac) for writing these credits originally and developing the game!
+- [Milla](https://github.com/MillaBasset) for writing these credits originally and developing the game!
 - [Lilla Oshisaure](https://www.youtube.com/user/LeSpyroshisaure) for being my co-dev!
 - [joezeng](https://github.com/joezeng) for the original project, and for offering to help with the expansion!
 - [The Tetra Legends Discord](http://discord.com/invite/7hMx5r2) for supporting me and playtesting!
