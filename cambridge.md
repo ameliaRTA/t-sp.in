@@ -71,4 +71,17 @@ Yes indeed, Cambridge supports modpacks! However, it should be noted that since 
 
 More special thanks can be found in-game, under the "Credits" menu.
 
+# Notable Games
+
+- [TGMsim](https://github.com/2Tie/TGMsim) by 2Tie
+- [Multimino](https://gamejolt.com/games/multimino/556683) by Axel Fox
+- [Tetra Legends](https://tetralegends.app) by Dr Ocelot
+- [Shiromino](https://github.com/shiromino/shiromino) by Felicity/nightmareci/kdex
+- [Cursed Blocks](https://github.com/Manabender/Cursed-Blocks) by Manabender
+- Picoris 1/2 by MarkGamed
+- Tetra Online by Mine
+- [TETR.IO](https://tetr.io) by osk
+- [Master of Blocks](https://discord.gg/72FZ49mjWh) by Phoenix Flare
+- [Spirit Drop](https://rayblastgames.com/spiritdrop.php) by RayRay26
+
 ![Cambridge Logo](https://cdn.discordapp.com/attachments/625496179433668635/763363717730664458/Icon_2.png)
