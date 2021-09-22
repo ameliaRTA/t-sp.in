@@ -41,9 +41,9 @@ If you haven't already, install `love` with your favourite package manager (Home
 
 ### Stable
 
-[Download (cambridge.love, an universal file that works on any OS that can run .love files using `love`)](https://github.com/MillaBasset/cambridge/releases/latest/download/cambridge.love)
+[Download (cambridge-other.zip, a universal version that works on any OS that can run .love files using `love`)](https://github.com/MillaBasset/cambridge/releases/latest/download/cambridge-other.zip)
 
-Put `cambridge.love` anywhere you'd like, open the Terminal in the folder with the file and then run `love cambridge.love`.
+Extract the contents of the .zip file into a folder, open the Terminal in the extracted folder and then run `love cambridge.love`.
 
 ### Bleeding Edge / Unstable
 
