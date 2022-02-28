@@ -25,9 +25,7 @@ Extract the contents of the .zip file into a folder and run `cambridge.exe`.
 
 **Keep in mind that this is an unstable version and there is a chance that the game might crash.**
 
-Make sure that you have LÖVE installed: [https://love2d.org/](https://love2d.org/)
-
-Then download the source code for Cambridge over at [https://github.com/MillaBasset/cambridge/archive/master.zip](https://github.com/MillaBasset/cambridge/archive/master.zip). Extract the .zip file, open a command prompt inside the cambridge-master folder and then then run this command to launch Cambridge:
+Download the source code for Cambridge over at [https://github.com/MillaBasset/cambridge/archive/master.zip](https://github.com/MillaBasset/cambridge/archive/master.zip). Extract the .zip file, open a command prompt inside the cambridge-master folder and then then run this command to launch Cambridge:
 
 `dist\windows\love.exe .`
 
@@ -37,7 +35,7 @@ For 32-Bit Windows installations, you'll have to run this instead:
 
 ## macOS and Linux
 
-If you haven't already, install `love` with your favourite package manager (Homebrew on macOS, your system's default on Linux). **Make sure you're using LÖVE 11, because it won't work with earlier versions!** You will need it for both Stable and Bleeding Edge / Unstable releases.
+If you haven't already, install `love` with your favourite package manager (Homebrew on macOS, your system's default on Linux). **Make sure you're using LÖVE 11.3, because it won't work with earlier or later versions!** You will need it for both Stable and Bleeding Edge / Unstable releases.
 
 ### Stable
 
