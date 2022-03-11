@@ -25,13 +25,19 @@ Extract the contents of the .zip file into a folder and run `cambridge.exe`.
 
 **Keep in mind that this is an unstable version and there is a chance that the game might crash.**
 
-Download the source code for Cambridge over at [https://github.com/MillaBasset/cambridge/archive/master.zip](https://github.com/MillaBasset/cambridge/archive/master.zip). Extract the .zip file, open a command prompt inside the cambridge-master folder and then then run this command to launch Cambridge:
+Download Cambridge's source code [here](https://github.com/MillaBasset/cambridge/archive/master.zip). Extract the ZIP to a folder of your choosing.
 
-`dist\windows\love.exe .`
+Assuming you're on a 64-bit system, you can double-click `start_win64.bat` to run the game. If that doesn't work, open a Command Prompt where you extracted Cambridge and run:
 
-For 32-Bit Windows installations, you'll have to run this instead:
+	dist\windows\love.exe .
 
-`dist\win32\love.exe .`
+If you're on a 32-bit system, you'll want to double-click `start_win32.bat`. If that doesn't work, run this instead:
+
+	dist\win32\love.exe .
+
+32-bit systems do not support rich presence integration.
+
+Then, check the mod pack section at the bottom of this page.
 
 ## macOS and Linux
 
