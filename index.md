@@ -10,5 +10,7 @@ title: t-sp.in
 	a markdown file hosting site<br>
 	based on github pages<br>
 	<br>
-	come find us <a href="https://github.com/ameliaRTA/t-sp.in">here!</a>
+	<br>
+	<a href="https://github.com/ameliaRTA/t-sp.in">come find us here!</a>
 </div>
+
