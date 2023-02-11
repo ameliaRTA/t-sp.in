@@ -11,6 +11,6 @@ title: t-sp.in
 	based on github pages<br>
 	<br>
 	<br>
-	<a href="https://github.com/ameliaRTA/t-sp.in">come find us here!</a>
+	<a href="https://github.com/ameliaRTA/t-sp.in">come find the repository here!</a>
 </div>
 
