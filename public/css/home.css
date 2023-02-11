@@ -11,7 +11,7 @@ body {
 	animation-iteration-count: infinite;
 }
 
-.maintext, .boxleft, .subtext, .tblock {
+.maintext, .boxleft, .subtext, .tblock, .a {
 	position: absolute;
 	display: flex;
 }
