@@ -13,8 +13,8 @@ author:
   url:               https://t-sp.in
 
 # Gems
-#plugins:
-#  - jekyll-paginate
+gems:
+  - jekyll-redirect-from
 
 # Custom vars
 version:             3.0.0
