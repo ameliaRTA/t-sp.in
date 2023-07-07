@@ -9,7 +9,7 @@ Quick heads up before you read on: This guide is a work in progress. I plan to g
 
 First off, you need to download DTET. For some reason Mihys, the developer, does not have a download link on his website, so here is one provided by the internet archive. [Click here to download it.](https://archive.org/download/dtet.7z/Dtet.7z) Note that you will need 7-Zip to unpack the archive.
 
-Next, you want to get a dll file named `dx7vb.dll`. Just google for it, you can find it pretty easily. Be sure to apply common sense in order to not download a version packed full of malware on steroids - you have been warned.
+Next, you want to get a dll file named `dx7vb.dll`. Just google for it, you can find it pretty easily. Be sure to apply common sense in order to not download a version packed full of malware on steroids - you have been warned. As a bit of a help, the MD5 checksum of the file should be `a35777e7d53fe4c4575e22807b76bbeb`.
 
 Finally, since DTET can emulate a MIDI synthesizer but the one included with Windows is very Not Good, you're better off downloading a new MIDI driver. OmniMIDI is an incredible MIDI driver, optimized to work with MIDI files that have a very large amounts of notes at the same time. DTET's MIDI files aren't *super* crazy, but you will have missing sound channels if you use the normal MIDI synthesizer included in Windows. [You can download OmniMIDI here, straight from its GitHub repository.](https://github.com/KeppySoftware/OmniMIDI/releases)
 
