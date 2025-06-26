@@ -16,5 +16,8 @@ author:
 gems:
   - jekyll-redirect-from
 
+plugins:
+  - jekyll-seo-tag
+
 # Custom vars
 version:             3.0.0
