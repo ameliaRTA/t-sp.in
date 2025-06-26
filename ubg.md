@@ -2,7 +2,7 @@
 layout: post
 title: "ungeneric block game"
 description: "an ungeneric block game! it go fast."
-image: img/tblock.png
+image: public/img/tblock.png
 ---
 
 **ungeneric block game** (name tentative) is a fangame of a certain block-related video game you may have seen once or twice. This fangame is a one-individual-project, based on the Cambridge engine.
