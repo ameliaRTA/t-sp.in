@@ -12,12 +12,11 @@ author:
   name:              ameliaRTA
   url:               https://t-sp.in
 
-# Gems
-gems:
-  - jekyll-redirect-from
+# Plugins, because gems are deprecated in this and it's plugins now. For some reason.
 
 plugins:
   - jekyll-seo-tag
+  - jekyll-redirect-from
 
 # Custom vars
 version:             3.0.0
