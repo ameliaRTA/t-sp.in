@@ -7,7 +7,7 @@ image:
   width: 152
   height: 152
 twitter:
-  card: app
+  card: summary
 ---
 
 **ungeneric block game** (name tentative) is a fangame of a certain block-related video game you may have seen once or twice. This fangame is a one-individual-project, based on the Cambridge engine.
